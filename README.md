@@ -1,4 +1,4 @@
-Recursos sobre experiencias de participación pública en el desarrollo de tecnologías de inteligencia artificial
+Recursos sobre experiencias de participación pública en el desarrollo de tecnologías de inteligencia artificial. Este repositorio se inicia a partir de una investigación realizada por [Ismael Kherroubi Garcia](https://github.com/Ismael-KG) en [Kaiori](https://kairoi.uk) para [AI Future Lab](https://www.aifuturelab.ai) y contribuciones de la comunidad de [Open Life Science](https://openlifesci.org).
 
 ## Organizaciones
 -  [TOWARDS AN AI STRATEGY FOR MEXICO](https://www.oxfordinsights.com/mexico)
